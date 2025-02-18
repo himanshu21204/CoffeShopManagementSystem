@@ -1,0 +1,75 @@
+﻿@model ConsumeCoffeeShopWebAPI.Models.Mail
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title align-top fs-3">Email</h5>
+
+        <!-- Horizontal Form -->
+        <form asp-action="Form" method="post">
+            <input type="hidden" />
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Email</label>
+                <div class="col-sm-10">
+                    <input type="email" asp-for="Email" class="form-control" id="inputEmail" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Name</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="Name" class="form-control" id="inputName" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Subject</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="Subject" class="form-control" id="inputSubject" />
+                    <span asp-validation-for="Subject" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Message</label>
+                <div class="col-sm-10">
+                    <textarea asp-for="Message" class="form-control" id="inputMessage"></textarea>
+                    <span asp-validation-for="Message" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-10">
+                    <button type="submit" class="btn btn-primary">Send</button>
+                    <a asp-controller="Home" asp-action="Index">Cancel</a>
+                </div>
+            </div>
+            
+        </form>
+        <!-- End Horizontal Form -->
+    </div>
+</div>
+
+@section Scripts {
+    <!-- SweetAlert Script for Mail Sent Success -->
+    @if (TempData["MailSent"] != null)
+    {
+        <script>
+            Swal.fire({
+                title: 'Success!',
+                text: 'Mail sent successfully.',
+                icon: 'success',
+                confirmButtonText: 'OK'
+            });
+        </script>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <script>
+            Swal.fire({
+                title: 'Error!',
+                text: 'Mail sent Eror.',
+                icon: 'success',
+                confirmButtonText: 'OK'
+            });
+        </script>
+    }
+}

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Property>
+
+<div class="container">
+	<h3>Property List</h3>
+	<div class="row">
+		@foreach (var dt in Model)
+		{
+			<partial name="_PropertyCard" model="dt" />
+		}
+	</div>
+</div>

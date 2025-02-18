@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CountryModel>
+@using ConsumeCoffeeShopWebAPI.Helper;
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+    <h2>Country List</h2>
+    <div></div>
+    <a class="btn btn-primary" asp-controller="Country" asp-action="Add"><i class="bi bi-plus-circle"></i> Add New Country</a>
+</div>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div style="color: red;">@ViewBag.ErrorMessage</div>
+}
+@if (TempData["SaveMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert" id="auto-close-alert">
+        <strong>@TempData["SaveMessage"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Country Name</th>
+            <th>Country Code</th>
+            @* <th>Created Date</th> *@
+            @* <th>Modified Date</th> *@
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var country in Model)
+            {
+                <tr>
+                    <td>@country.CountryName</td>
+                    <td>@country.CountryCode</td>
+                    @* <td>@country.CreatedDate.ToString("yyyy-MM-dd")</td> *@
+                    @* <td>@(country.ModifiedDate.HasValue ? country.ModifiedDate.Value.ToString("yyyy-MM-dd") : "Something")</td> *@
+                    <td>
+                        <a class="btn btn-outline-primary"
+                           asp-controller="Country"
+                           asp-action="Add"
+                           asp-route-addID="@UrlEncryptor.Encrypt(country.CountryID.ToString())">
+                            <i class="fa-regular fa-pen-to-square"></i>
+                        </a>
+                        <a class="btn btn-outline-danger delete" asp-controller="Country" asp-action="DeleteCountry" asp-route-countryID="@UrlEncryptor.Encrypt(country.CountryID.ToString())" onclick="return confirm('Are you sure you want to delete this city?');">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" style="text-align: center;">No countries found</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    setTimeout(function() {
+        const alertElement = document.getElementById('auto-close-alert');
+        if (alertElement) {
+            alertElement.classList.remove('show');
+            alertElement.classList.add('fade');
+            setTimeout(function() {
+                location.reload();
+            }, 10);
+        }
+    }, 3000);
+</script>

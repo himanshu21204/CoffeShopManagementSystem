@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\validators\\orderdeatilvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:validators\\orderdeatilvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\dropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\dropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\data\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:data\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\validators\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:validators\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\validators\\cityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:validators\\cityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\coffeeshopwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A47835-AF4B-490A-95A4-D8630B0E6DB4}|CoffeeShopWebAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:07:04.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Data\\DashboardRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\DashboardRepository.cs",
+              "RelativeToolTip": "Data\\DashboardRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:02:49.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDeatilValidator.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\OrderDeatilValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\OrderDeatilValidator.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\OrderDeatilValidator.cs",
+              "RelativeToolTip": "Validators\\OrderDeatilValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:09:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:27:23.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CountryRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\CountryRepository.cs",
+              "RelativeToolTip": "Data\\CountryRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwGYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:31:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DropDownController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\DropDownController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DropDownController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\DropDownController.cs",
+              "RelativeToolTip": "Controllers\\DropDownController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:11:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropDownRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\DropDownRepository.cs",
+              "RelativeDocumentMoniker": "Data\\DropDownRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\DropDownRepository.cs",
+              "RelativeToolTip": "Data\\DropDownRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:09:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwE4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:08:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:08:35.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CityRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\CityRepository.cs",
+              "RelativeToolTip": "Data\\CityRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwHMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:07:48.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Data\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Data\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwFIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:18:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T02:58:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderValidator.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\OrderValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\OrderValidator.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\OrderValidator.cs",
+              "RelativeToolTip": "Validators\\OrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:37:18.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:29:21.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityValidation.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\CityValidation.cs",
+              "RelativeDocumentMoniker": "Validators\\CityValidation.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Validators\\CityValidation.cs",
+              "RelativeToolTip": "Validators\\CityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:52:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\UserRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:14:50.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T03:07:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ProductRepository.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:24:11.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\CoffeeShopWebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:56:44.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\property\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\property\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\shared\\_propertycard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\shared\\_propertycard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:commonvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\email\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\email\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\orderdetail\\orderdetailaddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\orderdetail\\orderdetailaddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\checkaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:checkaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\loginregister\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\loginregister\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\city\\getallcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\city\\getallcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\user\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\city\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\city\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\loginregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\loginregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\bill\\billaddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\bill\\billaddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\user\\useraddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\user\\useraddoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\order\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|d:\\du-diet\\sem 6\\adv dot net\\codes\\coffee shop\\consumecoffeeshopwebapi\\views\\bill\\billlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E1CE625-BE87-4F84-8E56-25E056461BE2}|ConsumeCoffeeShopWebAPI.csproj|solutionrelative:views\\bill\\billlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwGsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:13:12.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PropertyCard.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Shared\\_PropertyCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_PropertyCard.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Shared\\_PropertyCard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_PropertyCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:12:54.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Property.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Property.cs",
+              "RelativeToolTip": "Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:11:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Property\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Property\\Display.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Property\\Display.cshtml",
+              "RelativeToolTip": "Views\\Property\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:10:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MailController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\MailController.cs",
+              "RelativeToolTip": "Controllers\\MailController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:53:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Email\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Models\\Email\\EmailSetting.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Email\\EmailSetting.cs",
+              "RelativeToolTip": "Models\\Email\\EmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:34:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Mail.cs",
+              "RelativeDocumentMoniker": "Models\\Mail.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\Mail.cs",
+              "RelativeToolTip": "Models\\Mail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:37:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "IEmailSender.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\IEmailSender.cs",
+              "RelativeToolTip": "IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:33:11.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:32:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\EmailSender.cs",
+              "RelativeDocumentMoniker": "EmailSender.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\EmailSender.cs",
+              "RelativeToolTip": "EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:32:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "Models\\CountryModel.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\CountryModel.cs",
+              "RelativeToolTip": "Models\\CountryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:20:43.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "Views\\City\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:26:30.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T03:23:02.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T05:17:18.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T02:55:15.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\Add.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\Add.cshtml",
+              "RelativeToolTip": "Views\\City\\Add.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:54:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllCity.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\GetAllCity.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\GetAllCity.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\City\\GetAllCity.cshtml",
+              "RelativeToolTip": "Views\\City\\GetAllCity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:54:17.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\User\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\UserList.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\User\\UserList.cshtml",
+              "RelativeToolTip": "Views\\User\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:54:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowF8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:53:41.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:16:32.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\LoginRegister\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoginRegister\\Login.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\LoginRegister\\Login.cshtml",
+              "RelativeToolTip": "Views\\LoginRegister\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T07:15:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T07:15:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetailModel.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\OrderDetailModel.cs",
+              "RelativeToolTip": "Models\\OrderDetailModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:17:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardModel.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\DashboardModel.cs",
+              "RelativeToolTip": "Models\\DashboardModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:14:09.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckAccess.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\CheckAccess.cs",
+              "RelativeDocumentMoniker": "CheckAccess.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\CheckAccess.cs",
+              "RelativeToolTip": "CheckAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:53:13.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:56:36.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRegisterController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\LoginRegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginRegisterController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\LoginRegisterController.cs",
+              "RelativeToolTip": "Controllers\\LoginRegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:29:33.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonVariable.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\CommonVariable.cs",
+              "RelativeDocumentMoniker": "CommonVariable.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\CommonVariable.cs",
+              "RelativeToolTip": "CommonVariable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:37:18.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:23:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BillAddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Bill\\BillAddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bill\\BillAddOrEdit.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Bill\\BillAddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\Bill\\BillAddOrEdit.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwBoAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:34:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailAddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\OrderDetail\\OrderDetailAddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderDetail\\OrderDetailAddOrEdit.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\OrderDetail\\OrderDetailAddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\OrderDetail\\OrderDetailAddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T02:21:09.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserAddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\User\\UserAddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\UserAddOrEdit.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\User\\UserAddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\User\\UserAddOrEdit.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:52:28.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Controllers\\BillController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwFkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T02:34:35.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:46:31.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BillList.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Bill\\BillList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bill\\BillList.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Bill\\BillList.cshtml",
+              "RelativeToolTip": "Views\\Bill\\BillList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:26:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderList.cshtml",
+              "DocumentMoniker": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Order\\OrderList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderList.cshtml",
+              "ToolTip": "D:\\DU-DIET\\Sem 6\\Adv Dot Net\\Codes\\Coffee Shop\\ConsumeCoffeeShopWebAPI\\Views\\Order\\OrderList.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:25:38.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

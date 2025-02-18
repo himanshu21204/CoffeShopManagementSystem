@@ -1,0 +1,56 @@
+﻿@model UserModel;
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h4>User Profile</h4>
+                </div>
+                <div class="card-body">
+                    <!-- User Details -->
+                    <ul class="list-group list-group-flush">
+                        <!-- User Name -->
+                        <li class="list-group-item">
+                            <strong>User Name:</strong> @Model.UserName
+                        </li>
+
+                        <!-- Email -->
+                        <li class="list-group-item">
+                            <strong>Email:</strong> @Model.Email
+                        </li>
+
+                        <!-- Password (displayed as asterisks for security) -->
+                        <li class="list-group-item">
+                            <strong>Password:</strong> @Model.Password
+                        </li>
+
+                        <!-- Phone Number -->
+                        <li class="list-group-item">
+                            <strong>Phone Number:</strong> @Model.MobileNo
+                        </li>
+
+                        <!-- Address -->
+                        <li class="list-group-item">
+                            <strong>Address:</strong> @Model.Address
+                        </li>
+
+                    </ul>
+
+                    <!-- Buttons -->
+                    @* <div class="d-flex justify-content-start">
+                        <a class="btn btn-outline-primary"
+                           asp-controller="User"
+                           asp-action="UserAddOrEdit"
+                           asp-route-UserID="@Model.UserID">
+                            <i class="fa-regular fa-pen-to-square"></i>
+                        </a>
+                        <a class="btn btn-outline-danger delete" asp-controller="User" asp-action="UserDelete" asp-route-UserID="@Model.UserID">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </div> *@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,45 @@
+﻿@model ConsumeCoffeeShopWebAPI.Models.Property
+
+<div class="col-4" key="@Model.Id">
+    <div class="card mt-3" style="width: 382px; height: 490px;">
+        <img src="@Model.Photos[0]" class="card-img-top card-img" alt="Property Image" />
+        <div class="card-body">
+            <h5 class="card-title">
+                <p>@Model.HomeTitle</p>
+            </h5>
+            <p class="card-text">@Model.HomeAddress</p>
+            <div>@Model.HomePrice</div>
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <div class="">
+                    <div class="d-flex">
+                        <div class="col" style="font-size: 15.5px;">
+                            <span style="font-size: 15.5px;" class="material-symbols-outlined">
+                                bed
+                            </span>
+                            @Model.HomeBedrooms bed
+                        </div>
+                        <div class="col" style="font-size: 15.5px;">
+                            <span style="font-size: 15.5px;" class="material-symbols-outlined">
+                                shower
+                            </span>
+                            @Model.HomeBathrooms bath
+                        </div>
+                        <div class="col" style="font-size: 15.5px;">
+                            <span style="font-size: 15.5px;" class="material-symbols-outlined">
+                                aspect_ratio
+                            </span>
+                            @Model.HomeSizeinft sqft
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-group-item" style="padding-bottom: 10px; font-weight: 100; font-size: 14px;">
+                <div class="d-flex">
+                    <div class="col">For @Model.HomePrice</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

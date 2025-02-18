@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsumeCoffeeShopWebAPI
+build_property.RootNamespace = ConsumeCoffeeShopWebAPI
+build_property.ProjectDir = D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Bill/BillAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxCaWxsQWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Bill/BillList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxCaWxsTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/City/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/City/GetAllCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxHZXRBbGxDaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Country/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Country/GetAllCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxHZXRBbGxDb3VudHJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Customer/CustomerAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJBZGRPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Customer/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3VzdG9tZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Accordion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NvcmRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYWRnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Breadcrumbs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCcmVhZGNydW1icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/IForm/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSUZvcm1cRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/LoginRegister/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5SZWdpc3RlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/LoginRegister/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5SZWdpc3RlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Mail/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbFxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Mail/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbFxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/OrderDetail/OrderDetailAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcT3JkZXJEZXRhaWxBZGRPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/OrderDetail/OrderDetailList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcT3JkZXJEZXRhaWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Order/OrderAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJBZGRPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Order/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Product/ProductAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0QWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Property/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGVydHlcRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/_Layout_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/_Layout_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/_PropertyCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9wZXJ0eUNhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/State/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/State/GetAllState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcR2V0QWxsU3RhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/User/UserAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyQWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/User/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DU-DIET/Sem 6/Adv Dot Net/Codes/Coffee Shop/ConsumeCoffeeShopWebAPI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-on26y4wnjp

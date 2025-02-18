@@ -1,0 +1,59 @@
+﻿@using System.Data;
+@using ConsumeCoffeeShopWebAPI.Helper;
+<div class="card">
+    <div class="card-body">
+        @if (TempData["AlertMessage"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show mt-2" role="alert" id="auto-close-alert">
+                <strong>@TempData["AlertMessage"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        <div class="d-flex justify-content-between mx-2">
+            <h5 class="card-title align-top fs-3">User</h5>
+            <div>
+                <a class="btn btn-primary btn-xs" asp-action="ExportToExcel" asp-controller="User">Export To Excel</a>
+                <a asp-controller="User" asp-action="UserAddOrEdit" class="btn btn-success m-3 ms-2">
+                    <i class="fa-solid fa-plus"></i>  New
+                </a>
+            </div>
+        </div>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">User Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">MobileNo</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Is Active?</th>
+                    <th scope="col">Button</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in Model)
+                {
+                    <tr>
+                        <td>@data.UserName</td>
+                        <td>@data.Email</td>
+                        <td>@data.MobileNo</td>
+                        <td>@data.Address</td>
+                        <td>@data.IsActive</td>
+                        <td scope="col">
+                            <a class="btn btn-outline-primary"
+                               asp-controller="User"
+                               asp-action="UserAddOrEdit"
+                               asp-route-addID="@UrlEncryptor.Encrypt(@data.UserID.ToString())">
+                                <i class="fa-regular fa-pen-to-square"></i>
+                            </a>
+                            <a class="btn btn-outline-danger delete" asp-controller="User" asp-action="UserDelete" asp-route-userID="@UrlEncryptor.Encrypt(data.UserID.ToString())" onclick="return confirm('Are you sure you want to delete this city?');">
+                                <i class="fa-solid fa-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <!-- End Default Table Example -->
+    </div>
+</div>

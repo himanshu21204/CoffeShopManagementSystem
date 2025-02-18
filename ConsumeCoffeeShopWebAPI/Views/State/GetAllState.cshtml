@@ -1,0 +1,79 @@
+﻿@model IEnumerable<StateModel>
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+    <h2>State List</h2>
+    <div></div>
+    <a class="btn btn-primary" asp-controller="State" asp-action="Add"><i class="bi bi-plus-circle"></i> Add New State</a>
+</div>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div style="color: red;">@ViewBag.ErrorMessage</div>
+}
+@if (TempData["SaveMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert" id="auto-close-alert">
+        <strong>@TempData["SaveMessage"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>State Name</th>
+            <th>State Code</th>
+            <th>Country</th>
+            @* <th>Created Date</th> *@
+            @* <th>Modified Date</th> *@
+            <th>City Count</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var state in Model)
+            {
+                <tr>
+                    <td>@state.StateName</td>
+                    <td>@state.StateCode</td>
+                    <td>@state.CountryName</td>
+                    @* <td>@state.CreatedDate.ToString("yyyy-MM-dd")</td> *@
+                    @* <td>@(state.ModifiedDate.HasValue ? state.ModifiedDate.Value.ToString("yyyy-MM-dd") : "Not Modified")</td> *@
+                    <td><a asp-controller="City" asp-action="CityByState" asp-route-StateID=@state.StateID>@state.CityCount</a></td>
+                    <td>
+                        <a class="btn btn-outline-primary"
+                           asp-controller="State"
+                           asp-action="Add"
+                           asp-route-addID="@UrlEncryptor.Encrypt(state.StateID.ToString())">
+                            <i class="fa-regular fa-pen-to-square"></i>
+                        </a>
+                        <a class="btn btn-outline-danger delete" asp-controller="State" asp-action="DeleteState" asp-route-stateID="@UrlEncryptor.Encrypt(state.StateID.ToString())" onclick="return confirm('Are you sure you want to delete this city?');">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" style="text-align: center;">No states found</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    setTimeout(function() {
+        const alertElement = document.getElementById('auto-close-alert');
+        if (alertElement) {
+            alertElement.classList.remove('show');
+            alertElement.classList.add('fade');
+            setTimeout(function() {
+                location.reload();
+            }, 10);
+        }
+    }, 3000);
+</script>

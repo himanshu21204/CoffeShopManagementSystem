@@ -1,0 +1,76 @@
+﻿@model ProductModel;
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title align-top fs-3">Product</h5>
+
+        <!-- Horizontal Form -->
+        <form asp-action="ProductSave" method="post">
+            <!-- Hidden Input for ProductID -->
+            <input type="hidden" asp-for="ProductID" />
+
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Product Name</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="ProductName" class="form-control" id="inputText">
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Product Price</label>
+                <div class="col-sm-10">
+                    <input type="number" asp-for="ProductPrice" class="form-control" id="inputText">
+                    <span asp-validation-for="ProductPrice" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Product Code</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="ProductCode" class="form-control" id="inputText">
+                    <span asp-validation-for="ProductCode" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>Description</label>
+                <div class="col-sm-10">
+                    <input type="text" asp-for="Description" class="form-control" id="inputText">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-2 col-form-label"><span class="text-danger align-top">*</span>User ID</label>
+                <div class="col-sm-10">
+                    @if (ViewBag.UserDropDown != null)
+                    {
+                        <select class="form-control" asp-for="UserID" asp-items="@(new SelectList(ViewBag.UserDropDown, "UserID", "UserName"))">
+                            <option value="">Select User</option>
+                        </select>
+                    }
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-10 text-start">
+                    @{
+                        var isEdit = !string.IsNullOrEmpty(Context.Request.Query["ProductID"]);
+                        var isAdd = !isEdit;
+                    }
+                    @if (isAdd)
+                    {
+                        <button type="submit" class="btn btn-primary">Add</button>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    }
+                    <a asp-controller="Product" asp-action="ProductList" class="btn btn-secondary">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

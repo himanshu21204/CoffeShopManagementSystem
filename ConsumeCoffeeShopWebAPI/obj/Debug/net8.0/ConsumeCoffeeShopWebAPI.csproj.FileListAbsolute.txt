@@ -1,0 +1,188 @@
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.runtime.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.exe
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.deps.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.runtimeconfig.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MailKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MimeKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.AssemblyReference.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfoInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.CoreCompileInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\bundle\ConsumeCoffeeShopWebAPI.styles.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\projectbundle\ConsumeCoffeeShopWebAPI.bundle.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeC.F5D9D7D7.Up2Date
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\refint\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.genruntimeconfig.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ref\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.AssemblyReference.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfoInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.CoreCompileInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\refint\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.runtime.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.exe
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.deps.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.runtimeconfig.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MailKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MimeKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\bundle\ConsumeCoffeeShopWebAPI.styles.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\projectbundle\ConsumeCoffeeShopWebAPI.bundle.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeC.F5D9D7D7.Up2Date
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.genruntimeconfig.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Task 4\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ref\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.AssemblyReference.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfoInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.AssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.csproj.CoreCompileInputs.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.RazorAssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\refint\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\appsettings.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.staticwebassets.runtime.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.exe
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.deps.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.runtimeconfig.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\ConsumeCoffeeShopWebAPI.pdb
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MailKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\MimeKit.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\bundle\ConsumeCoffeeShopWebAPI.styles.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\scopedcss\projectbundle\ConsumeCoffeeShopWebAPI.bundle.scp.css
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConsumeCoffeeShopWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumeCoffeeShopWebAPI.props
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeC.F5D9D7D7.Up2Date
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.genruntimeconfig.cache
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ref\ConsumeCoffeeShopWebAPI.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\obj\Debug\net8.0\ConsumeCoffeeShopWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\DU-DIET\Sem 6\Adv Dot Net\Codes\Coffee Shop\ConsumeCoffeeShopWebAPI\bin\Debug\net8.0\Material.Icons.dll

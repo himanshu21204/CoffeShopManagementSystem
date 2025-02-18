@@ -1,0 +1,21 @@
+﻿@model CountryModel
+
+<h2>Insert Country</h2>
+
+<form asp-controller="Country" asp-action="Save" method="post">
+    <input type="hidden" asp-for="CountryID" />
+
+    <div class="mb-3">
+        <label asp-for="CountryName" class="form-label"><span class="text-danger">*</span>Country Name</label>
+        <input type="text" class="form-control" asp-for="CountryName" placeholder="Enter Country Name"/>
+        <span class="text-danger" asp-validation-for="CountryName"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CountryCode" class="form-label"><span class="text-danger">*</span>Country Code</label>
+        <input type="text" class="form-control" asp-for="CountryCode" placeholder="Enter Country Code"/>
+        <span class="text-danger" asp-validation-for="CountryCode"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
